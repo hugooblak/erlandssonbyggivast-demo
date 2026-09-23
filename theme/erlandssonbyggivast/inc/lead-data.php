@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Erlandsson Bygg i Väst AB',
+	'bransch'        => 'Byggfirma',
 	'telefon'        => '031-389 00 00',
 	'telefon_tel'    => '+46313890000',
 	'ort'            => 'Kungsbacka',
